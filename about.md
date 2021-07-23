@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Об авторе
 permalink: /about/
 ---
 
-Some information about you!
+Дмитрий Родионов, студент кафедры криптологии и кибербезопасности НИЯУ МИФИ.
 
-### More Information
+Занимаюсь анализом и обратной разработкой компонентов приложений для платформ Windows, Linux и Android.
 
-A place to include any other types of information that you'd like to include about yourself.
+Люблю заниматься изучением футбольных тактических схем и проводить время за игрой в спортивные симуляторы.
 
-### Contact me
+### Контакты
 
-[email@domain.com](mailto:email@domain.com)
+[hexdump1337@gmail.com](mailto:hexdump1337@gmail.com)
