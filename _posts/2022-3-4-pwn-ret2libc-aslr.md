@@ -87,4 +87,4 @@ title: Разбор месяца про ret2libc и ASLR
 
 ![_config.yml]({{ site.baseurl }}/images/pwn-ret2libc-aslr/19.png)
 
-Полный код эксплойта доступен на [GitHub](https://github.com/Tecatech/information-security-training/blob/main/2020/SPbCTF/Binary%20Exploitation/ret2libc_ASLR/cleaker/cleaker_exploit.py)
+Полный код эксплойта доступен на [GitHub](https://github.com/Tecatech/cyber-security-training/blob/main/Binary%20Exploitation/SPbCTF/cleaker/cleaker_exploit.py)
