@@ -12,4 +12,4 @@ permalink: /about/
 
 ### Контакты
 
-[hexdump1337@gmail.com](mailto:hexdump1337@gmail.com)
+[rodionovmephi@gmail.com](mailto:rodionovmephi@gmail.com)
