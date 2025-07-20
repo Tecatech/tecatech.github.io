@@ -22,7 +22,7 @@ The **P2P Extension** (hereinafter referred to as the «Extension») is designed
 
 ## Security
 
-* All data (including cookies) is processed **only on the user's device** and never leaves it.
+* All data is processed **only on the user's device** and never leaves it.
 * The Extension has no server-side component and **does not store user data**.
 
 ## Policy Changes
